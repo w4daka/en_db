@@ -1,0 +1,61 @@
+Deck	Front	Back	Tags
+base	She is happy.	彼女は幸せだ / S=She V=is C=happy / Structure=SVC	svc linking
+base	He became a teacher.	彼は教師になった / S=He V=became C=a teacher / Structure=SVC	svc linking
+base	The sky turned red.	空が赤くなった / S=The sky V=turned C=red / Structure=SVC	svc change
+base	She stayed calm.	彼女は落ち着いていた / S=She V=stayed C=calm / Structure=SVC	svc change
+base	He grew tired.	彼は疲れてきた / S=He V=grew C=tired / Structure=SVC	svc change
+base	The soup tastes good.	そのスープは美味しい / S=The soup V=tastes C=good / Structure=SVC	svc sensory trap
+base	She looked tired.	彼女は疲れて見えた / S=She V=looked C=tired / Structure=SVC	svc sensory trap
+base	The music sounds nice.	その音楽は良い響きだ / S=The music V=sounds C=nice / Structure=SVC	svc sensory trap
+base	She felt happy.	彼女は幸せに感じた / S=She V=felt C=happy / Structure=SVC	svc sensory trap
+base	He got angry.	彼は怒った / S=He V=got C=angry / Structure=SVC	svc change trap
+base	She reads a book.	彼女は本を読む / S=She V=reads O=a book / Structure=SVO	svo action
+base	He got a car.	彼は車を手に入れた / S=He V=got O=a car / Structure=SVO	svo action trap
+base	She looked at me.	彼女は私を見た / S=She V=looked O=at me / Structure=SVO	svo action trap
+base	He felt the fabric.	彼は布に触れた / S=She V=felt O=the fabric / Structure=SVO	svo action trap
+base	The chef tasted the soup.	シェフはスープを味見した / S=The chef V=tasted O=the soup / Structure=SVO	svo action trap
+base	The dog smelled the food.	犬は食べ物の匂いを嗅いだ / S=The dog V=smelled O=the food / Structure=SVO	svo action trap
+base	She made him happy.	彼女は彼を幸せにした / S=She V=made O=him C=happy / Structure=SVOC	svoc action
+base	They elected him leader.	彼らは彼をリーダーに選んだ / S=They V=elected O=him C=leader / Structure=SVOC	svoc action
+base	I consider him smart.	私は彼を賢いと思う / S=I V=consider O=him C=smart / Structure=SVOC	svoc action
+base	We call him Tom.	私たちは彼をトムと呼ぶ / S=We V=call O=him C=Tom / Structure=SVOC	svoc action
+reverse	彼女は幸せだ	She is happy.	svc linking
+reverse	彼は教師になった	He became a teacher.	svc linking
+reverse	空が赤くなった	The sky turned red.	svc change
+reverse	彼女は落ち着いていた	She stayed calm.	svc change
+reverse	彼は疲れてきた	He grew tired.	svc change
+reverse	そのスープは美味しい	The soup tastes good.	svc sensory trap
+reverse	彼女は疲れて見えた	She looked tired.	svc sensory trap
+reverse	その音楽は良い響きだ	The music sounds nice.	svc sensory trap
+reverse	彼女は幸せに感じた	She felt happy.	svc sensory trap
+reverse	彼は怒った	He got angry.	svc change trap
+reverse	彼女は本を読む	She reads a book.	svo action
+reverse	彼は車を手に入れた	He got a car.	svo action trap
+reverse	彼女は私を見た	She looked at me.	svo action trap
+reverse	彼は布に触れた	He felt the fabric.	svo action trap
+reverse	シェフはスープを味見した	The chef tasted the soup.	svo action trap
+reverse	犬は食べ物の匂いを嗅いだ	The dog smelled the food.	svo action trap
+reverse	彼女は彼を幸せにした	She made him happy.	svoc action
+reverse	彼らは彼をリーダーに選んだ	They elected him leader.	svoc action
+reverse	私は彼を賢いと思う	I consider him smart.	svoc action
+reverse	私たちは彼をトムと呼ぶ	We call him Tom.	svoc action
+quiz	She is happy. → What is the structure?	SVC	svc linking
+quiz	He became a teacher. → What is the structure?	SVC	svc linking
+quiz	The sky turned red. → What is the structure?	SVC	svc change
+quiz	She stayed calm. → What is the structure?	SVC	svc change
+quiz	He grew tired. → What is the structure?	SVC	svc change
+quiz	The soup tastes good. → What is the structure?	SVC	svc sensory trap
+quiz	She looked tired. → What is the structure?	SVC	svc sensory trap
+quiz	The music sounds nice. → What is the structure?	SVC	svc sensory trap
+quiz	She felt happy. → What is the structure?	SVC	svc sensory trap
+quiz	He got angry. → What is the structure?	SVC	svc change trap
+quiz	She reads a book. → What is the structure?	SVO	svo action
+quiz	He got a car. → What is the structure?	SVO	svo action trap
+quiz	She looked at me. → What is the structure?	SVO	svo action trap
+quiz	He felt the fabric. → What is the structure?	SVO	svo action trap
+quiz	The chef tasted the soup. → What is the structure?	SVO	svo action trap
+quiz	The dog smelled the food. → What is the structure?	SVO	svo action trap
+quiz	She made him happy. → What is the structure?	SVOC	svoc action
+quiz	They elected him leader. → What is the structure?	SVOC	svoc action
+quiz	I consider him smart. → What is the structure?	SVOC	svoc action
+quiz	We call him Tom. → What is the structure?	SVOC	svoc action

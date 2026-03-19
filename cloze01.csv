@@ -1,0 +1,13 @@
+Text,Tags
+She looked tired. {{c1::SVC}},trap look svc
+She looked at me. {{c1::SVO}},trap look svo
+He felt happy. {{c1::SVC}},trap feel svc
+He felt the fabric. {{c1::SVO}},trap feel svo
+The soup tastes good. {{c1::SVC}},trap taste svc
+The chef tasted the soup. {{c1::SVO}},trap taste svo
+The dog smelled the food. {{c1::SVO}},trap smell svo
+The flower smells nice. {{c1::SVC}},trap smell svc
+The music sounds nice. {{c1::SVC}},trap sound svc
+He sounded angry. {{c1::SVC}},trap sound svc
+He got angry. {{c1::SVC}},trap get svc
+He got a car. {{c1::SVO}},trap get svo

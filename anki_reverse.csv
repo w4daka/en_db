@@ -1,0 +1,12 @@
+彼女は疲れて見えた,She looked tired.,trap look svc
+彼女は私を見た,She looked at me.,trap look svo
+彼は幸せに感じた,He felt happy.,trap feel svc
+彼は布に触れた,He felt the fabric.,trap feel svo
+そのスープは美味しい,The soup tastes good.,trap taste svc
+シェフはスープを味見した,The chef tasted the soup.,trap taste svo
+犬は食べ物の匂いを嗅いだ,The dog smelled the food.,trap smell svo
+その花はいい匂いがする,The flower smells nice.,trap smell svc
+その音楽は良い響きだ,The music sounds nice.,trap sound svc
+彼は怒っているように聞こえた,He sounded angry.,trap sound svc
+彼は怒った,He got angry.,trap get svc
+彼は車を手に入れた,He got a car.,trap get svo
