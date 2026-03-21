@@ -23,9 +23,8 @@
 
             # mdbook
             mdbook
-            mdbook-toc
-            mdbook-katex
             mdbook-mermaid
+            mdbook-linkcheck2
             # Diagram
             mermaid-cli
 
