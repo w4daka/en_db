@@ -21,10 +21,11 @@
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
 
-            # Rust
-            rustc
-            cargo
-
+            # mdbook
+            mdbook
+            mdbook-toc
+            mdbook-katex
+            mdbook-mermaid
             # Diagram
             mermaid-cli
 
